@@ -907,3 +907,21 @@
   date: March 11 - 13, 2019
   start-date: 1552262400
   cost: 1
+  
+  - name: DevSecCon Boston
+  url: https://www.devseccon.com/boston-2018/
+  location: 
+     city: Boston
+     country: USA
+  date: September 10 - 11, 2019
+  start-date: 1536559200
+  cost: 1
+  
+   - name: DevSecCon London
+  url: https://www.devseccon.com/london-2018/
+  location: 
+     city: London
+     country: UK
+  date: October 18 - 19, 2019
+  start-date: 1539842400
+  cost: 1
